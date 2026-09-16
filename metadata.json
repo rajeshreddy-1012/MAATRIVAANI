@@ -1,0 +1,10 @@
+{
+  "name": "MaatriVaani",
+  "description": "AI-powered mother-tongue classroom assistant for primary school classrooms supporting Hindi to tribal language translation, bilingual worksheets, flashcards, and NIPUN Bharat outcomes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
